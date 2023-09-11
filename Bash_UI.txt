@@ -7,4 +7,4 @@ REM Activate the virtual environment
 call .\Scripts\activate
 
 REM Run the Python script
-python path\to\the\pythono_file.py
+python path\to\the\python_file.py
