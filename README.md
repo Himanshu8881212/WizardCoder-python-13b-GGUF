@@ -17,7 +17,7 @@ This setup assumes you are operating within a virtual environment. Ensure you're
 3. Editing the Notepad Bash Scripting File:
 - Find the bash scripting file provided. This might have an extension like `.txt` or similar.
 - Open it in Notepad or a similar text editor.
-- Make the necessary modifications, and ensure to reference the correct directory paths due to the virtual environment.
+- Make the necessary modifications, and ensure reference of the correct directory paths due to the virtual environment.
 
 4. Saving and Executing the Batch File:
 - After editing, save the file with a `.bat` extension.
@@ -27,6 +27,6 @@ This setup assumes you are operating within a virtual environment. Ensure you're
 - Once you've executed the `.bat` file, the offline model should be operational.
 - Interact using the provided Command Line Interface (CLI) for a user-friendly experience.
 
-
+![Screenshot 2023-09-11 134415](https://github.com/Himanshu8881212/WizardCoder-python-13b-GGUF/assets/134622172/6efaf9da-071c-4007-8e56-54257bce07fc)
 
 When faced with challenges, refer back to this guide.
